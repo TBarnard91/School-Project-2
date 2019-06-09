@@ -4,3 +4,5 @@ Specifically, I wrote a program to simulate the boarding of a plane using severa
 
 I was responsible for the makefile, and the Airworthy, Passenged, and SimulationProject files. 
 The remaining files were for the priority quese and were provided by the professor.
+
+The TBarnard_Project2.zip includes all the other files except for Project 2 Specifications.docx
